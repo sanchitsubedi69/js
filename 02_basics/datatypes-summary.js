@@ -6,7 +6,7 @@
 // const scorevalue= 100.3
 
 // const isLoggedIn = false
-const outsideTemp = null
+// const outsideTemp = null
 // let userEmail;
  
 // // const id = symbol('123')
@@ -30,14 +30,25 @@ const outsideTemp = null
 
 
 
-const myFunction = function(){
-    console.log("Hello World");
+// const myFunction = function(){
+//     console.log("Hello World");
 
     
 
-}
-myFunction();
+// }
+// myFunction();
 
 
-console.log(typeof outsideTemp ) 
+// console.log(typeof outsideTemp ) 
+
+
+
+//=====================================================================
+
+
+let myYoutuname= "sancchitsubedi.com"
+let  anothername= myYoutuname
+ anothername="chaiorcode"
+
+ 
 
