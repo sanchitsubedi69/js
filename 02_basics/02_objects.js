@@ -65,6 +65,15 @@ const {price: pp}=course
 
 console.log(pp);
 
+// this is called destructure the objectss where we can give another name to the elements
+
+// API
+
+// {
+//     "name":"sanchit",
+    
+
+// }
 
 
 
